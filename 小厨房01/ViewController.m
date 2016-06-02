@@ -17,6 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
+    //是打工奋斗的的顶顶顶顶顶顶顶顶顶顶
 }
 
 - (void)didReceiveMemoryWarning {
